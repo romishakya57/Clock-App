@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item
+            android:id="@+id/alarm"
+            android:title="Alarm Clock"
+            android:icon="@drawable/ic_baseline_access_alarms_24"/>
+    <item
+        android:id="@+id/stopwatch"
+        android:title="Stop Watch"
+        android:icon="@drawable/ic_baseline_watch_later_24"/>
+    <item
+        android:id="@+id/timer"
+        android:title="Timer"
+        android:icon="@drawable/ic_baseline_timer_24"/>
+</menu>
